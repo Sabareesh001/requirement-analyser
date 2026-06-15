@@ -1,0 +1,10 @@
+# ============================================================
+#  Requirements Analyzer – Python Dependencies
+#  Install with: pip install -r requirements.txt
+# ============================================================
+
+# Groq Python SDK – Groq Cloud API calls
+groq>=0.9.0
+
+# Loads environment variables from .env file
+python-dotenv>=1.0.0

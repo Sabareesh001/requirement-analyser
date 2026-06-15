@@ -1,0 +1,16 @@
+Project: Online Food Delivery Platform
+
+We need a mobile and web application that allows customers to browse restaurants,
+place food orders, and make payments online. The system should allow restaurant
+owners to manage their menus and track incoming orders in real-time.
+
+Customers should be able to register and log in, search for nearby restaurants,
+add items to a cart, apply promo codes, and pay via credit card or UPI.
+Once an order is placed, the customer should receive live tracking of the delivery.
+
+Restaurant owners need a dashboard to update menus, set availability, and view
+order history. Delivery agents should have a mobile app to accept/reject deliveries,
+navigate using maps, and update delivery status.
+
+The platform must support at least 10,000 concurrent users and ensure payments
+are secure. The app should load within 3 seconds and be available 99.9% of the time.
